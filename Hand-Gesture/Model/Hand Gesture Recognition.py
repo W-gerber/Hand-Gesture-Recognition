@@ -109,7 +109,7 @@ def main():
                 if gesture == "Middle Finger":
                     cv2.putText(frame, "Warning: Middle Finger Detected!", (30, 30), cv2.FONT_HERSHEY_SIMPLEX, 
                                 1, (0, 0, 255), 3)
-                    #os.system("shutdown /s /t 1")
+                    os.system("shutdown /s /t 1")
         
         cv2.imshow("Hand Gesture Recognition", frame)
 
