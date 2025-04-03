@@ -78,11 +78,4 @@ Hand-Gesture-Recognition/
 
 Contributions are welcome! Feel free to fork the repository, submit issues, and create pull requests.
 
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## 📞 Contact
-
-For any inquiries, reach out via: 📧 Email: [w-gerber@example.com](mailto\:w-gerber@example.com) 🐦 Twitter: [@WGerberAI](https://twitter.com/WGerberAI)
 
